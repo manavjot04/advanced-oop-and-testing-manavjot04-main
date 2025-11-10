@@ -7,7 +7,7 @@ Username: bizvy001
 This is my own work as defined by the University's Academic Integrity Policy.
 '''
 
-from enum import Enum, auto
+from enum import Enum, auto #
 
 class DietType(Enum):
     HERBIVORE = auto()
